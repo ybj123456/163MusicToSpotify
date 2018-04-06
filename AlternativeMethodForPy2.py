@@ -12,7 +12,7 @@ enterId = "Enter the playlist id (Enter ? to get help):"
 help = "To get the id of the playlist, go to the page\
 of it and look at the address bar.\
  \nPlaylist id is the numbers after \
- 'http://music.163.com/#/playlist?id='"
+ 'http://music.163.com/#/playlist?id=1982452763"
 errRetrive = "No data retrived. \nPlease check the playlist id again."
 
 while 1:
